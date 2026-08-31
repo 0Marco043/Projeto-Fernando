@@ -1,0 +1,16 @@
+# Arquivos de ambiente e segredos
+.env
+*.env
+
+# Pastas de compilação e dependências
+target/
+bin/
+build/
+*.class
+*.exe
+*.o
+
+# Pastas de IDEs
+.idea/
+.vscode/
+nbproject/private/
